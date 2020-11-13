@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">Hi hello, 👋 I'm Aucoeur (okkurr!)</h2>
 
-<!--
-**aucoeur/aucoeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aucoeurngo/">
+    <img src="https://img.shields.io/badge/AUCOEUR_NGO-blue?style=for-the-badge&logo=linkedin&labelColor=005b8e" />
+  </a>
+  <a href="https://medium.com/@aucoeurngo">
+    <img src="https://img.shields.io/badge/@aucoeurngo-333333?style=for-the-badge&logo=medium&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://github.com/aucoeur" alt="is it passé to joke about recursion">
+    <img src="https://img.shields.io/badge/i_maked_this-grey?style=for-the-badge&logo=visual-studio-code&logoColor=bfff00&labelColor=333333" />
+  </a>
+</p>
