@@ -7,7 +7,7 @@
   <a href="https://medium.com/@aucoeurngo">
     <img src="https://img.shields.io/badge/@aucoeurngo-333333?style=for-the-badge&logo=medium&logoColor=white&labelColor=black" />
   </a>
-  <a href="https://github.com/aucoeur" alt="is it passé to joke about recursion">
+  <a href="https://github.com/aucoeur" title="is it passé to joke about recursion">
     <img src="https://img.shields.io/badge/i_maked_this-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
   </a>
 </p>
