@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/@aucoeurngo-333333?style=for-the-badge&logo=medium&logoColor=white&labelColor=black" />
   </a>
   <a href="https://github.com/aucoeur" title="is it passé to joke about recursion">
-    <img src="https://img.shields.io/badge/i_maked_this-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
+    <img src="https://img.shields.io/badge/grithub-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
   </a>
   <a href="mailto:aucoeurngo@gmail.com">
     <img src="https://img.shields.io/badge/contact_me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
